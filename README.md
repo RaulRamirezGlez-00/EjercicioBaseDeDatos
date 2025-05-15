@@ -18,4 +18,6 @@ Desde MySQL WorkBench importar la base de datos mysqlsampledatabase.sql
 
 5. Subir todo al repositorio y mostrar la imagen del diagrama en este README.md
 
+![Index](https://github.com/RaulRamirezGlez-00/EjercicioBaseDeDatos/blob/main/Diagrama.png?raw=true)
+
 ---
